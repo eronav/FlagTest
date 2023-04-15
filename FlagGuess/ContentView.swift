@@ -42,7 +42,7 @@ struct ContentView: View {
                     }
                 }
                 Spacer()
-                Text("The Final Score: " + String(score))
+                Text("The FFF-Final Score: " + String(score))
                     .foregroundColor(.white)
                     .font(.title.weight(.bold))
                 Spacer()
